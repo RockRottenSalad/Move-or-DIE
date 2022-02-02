@@ -16,7 +16,7 @@ Installation for Linux:<br>
 <br><br>
 
 Installation for Windows:<br>
-1: Install the Move_Or_DIE.exe<br>
+1: Install the Move_or_DIE.exe<br>
 2: Deal with the antivirus<br><br>
 
 # Compiling
