@@ -10,7 +10,7 @@ Controls are: <br>
 # Installation
 
 Installation for Linux:<br>
-1: Clone this respiratory `git clone https://github.com/RockRottenSalad/Move-or-DI`<br>
+1: Clone this respiratory `git clone https://github.com/RockRottenSalad/Move-or-DIE`<br>
 2: If you do not have raylib, then you can either manually install raylib from: https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux. Or you can try to use my automated raylib bashscript. Run it by going into the directory and running `sudo ./installraylib.sh` <br>
 3: Once raylib is installed, you can run the game: `./move-or-die.out`
 <br><br>
