@@ -26,7 +26,7 @@ int main(){
   srand(time(NULL));
 
 
-  InitWindow(900, 900, "moving cube");
+  InitWindow(900, 900, "Move or DIE");
   SetTargetFPS(60);
   while(!WindowShouldClose()){
     BeginDrawing();
