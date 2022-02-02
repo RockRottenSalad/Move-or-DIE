@@ -26,7 +26,7 @@ Compiling for Linux:<br>
 1: Clone this respiratory `git clone https://github.com/RockRottenSalad/Move-or-DI`<br>
 2: Install raylib(Instructions can be found in step 2 in installation for Linux)<br>
 3: Install the gcc package. `sudo apt-get install gcc` or `sudo pacman -S gcc` depending on package manager<br>
-4: Run the command `gcc MoveOrDieSource.c -lraylib -o move-or-die.out`<br><br>
+4: Run the command `gcc MoveOrDieSource.c -lraylib -lm -o move-or-die.out`<br><br>
 
 Compiling for Windows:<br>
 1: Download `MoveOrDieSource.c` from this respiratory<br>
