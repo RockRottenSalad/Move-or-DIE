@@ -6,16 +6,12 @@
 #include<math.h>
 
 int main(){
-  //won = 0;
-
   int x = 450;
   int y = 450;
   int speed = 10;
   char scoretext[50] = {"0"};
-  //char timertext[10] = {"0"};
   int score = 0;
   int restart = 0;
-  //int count;
 
   int pointX = 233;
   int pointY = 433;
@@ -58,7 +54,6 @@ int main(){
 
       float timer = timer + GetFrameTime();
 
-
     if(timer >= 0.02f){
       x = x+headingX;
       y = y+headingY;
@@ -93,9 +88,6 @@ int main(){
         restart = 1;
       }
     EndDrawing();
-
    }
-
    return 0;
-
 }
