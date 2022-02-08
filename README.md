@@ -15,9 +15,9 @@ Installation for Linux:<br>
 3: Once raylib is installed, you can run the game: `./move-or-die.out`
 <br><br>
 
-Installation for Windows:<br>
+~~Installation for Windows:<br>
 1: Install the Move_or_DIE.exe<br>
-2: Deal with the antivirus<br><br>
+2: Deal with the antivirus<br><br>~~
 
 # Compiling
 If you'd like to compile the code yourself, then follow these instructions:<br><br>
@@ -28,7 +28,7 @@ Compiling for Linux:<br>
 3: Install the gcc package. `sudo apt-get install gcc` or `sudo pacman -S gcc` depending on package manager<br>
 4: Run the command `gcc MoveOrDieSource.c -lraylib -lm -o move-or-die.out`<br><br>
 
-Compiling for Windows:<br>
+~~Compiling for Windows:<br>
 1: Download `MoveOrDieSource.c` from this respiratory<br>
 2: Download notepad++ https://notepad-plus-plus.org/downloads/ <br>
 3: Go to https://www.raylib.com/index.html and click on download now<br>
@@ -39,7 +39,7 @@ Compiling for Windows:<br>
 8: Select `MoveOrDieSource.c`<br>
 9: Once it's open, press `F6` on your keyboard<br>
 10: Make sure you've selected the `raylib_compile_execute` option and click save<br>
-11: Click save again, and then click OK<br>
+11: Click save again, and then click OK<br>~~
 
 
 
