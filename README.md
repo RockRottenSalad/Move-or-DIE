@@ -15,6 +15,7 @@ Installation for Linux:<br>
 3: Once raylib is installed, you can run the game: `./move-or-die.out`
 <br><br>
 
+Due to several issues with the windows version, I'll advise against installing it<br>
 ~~Installation for Windows:<br>
 1: Install the Move_or_DIE.exe<br>
 2: Deal with the antivirus<br><br>~~
